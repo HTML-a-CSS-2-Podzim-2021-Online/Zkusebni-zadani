@@ -1,1 +1,1 @@
-# Zkusebni-zadani
+# Zkušební zadání pro GitHub Classroom
